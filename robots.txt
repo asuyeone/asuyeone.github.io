@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://asuyeone.github.io/lYG/sitemap_index.txt
+Sitemap: https://asuyeone.github.io/nuI/sitemap_index.txt
+Sitemap: https://asuyeone.github.io/sQk/sitemap_index.txt
+Sitemap: https://asuyeone.github.io/wZe/sitemap_index.txt
